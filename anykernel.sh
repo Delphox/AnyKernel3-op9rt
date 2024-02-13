@@ -14,7 +14,7 @@ device.name1=martini
 device.name2=OnePlus9RT
 device.name3=OP5154L1
 device.name4=OP5155L1
-supported.versions= 13
+supported.versions= 14
 supported.patchlevels=
 '; } # end properties
 
